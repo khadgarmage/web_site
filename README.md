@@ -8,7 +8,7 @@ DolphinScheduler website is powered by [docsite](https://github.com/txd-team/doc
 If your version of docsite is less than `1.3.3`, please upgrade to `1.3.3`.
 Please also make sure your node version is 8.x, versions higher than 8.x is not supported by docsite yet.
 
-## Build instruction
+## Build instruction 
 
 1. Run `npm install docsite -g` to install the dev tool.
 2. Run `npm i` in the root directory to install the dependencies.
@@ -36,7 +36,7 @@ Then you are all set to run and build the website. Follow the build instruction 
 
 ## SEO
 
-Make sure each .md starts with the following texts : 
+Make sure each .md starts with the following texts:
 
 ```
 ---
