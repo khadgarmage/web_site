@@ -36,7 +36,7 @@ Then you are all set to run and build the website. Follow the build instruction 
 
 ## SEO
 
-Make sure each .md starts with the following texts:
+Make sure each .md starts with the following texts : 
 
 ```
 ---
