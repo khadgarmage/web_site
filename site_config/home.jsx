@@ -101,7 +101,7 @@ export default {
     introduction: {
       title: 'A distributed and easy-to-expand visual DAG workflow scheduling system',
       desc: 'Dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing. Its main objectives are as follows:',
-      img: '/img/architecture.png',
+      img: '/img/architecture.jpg',
     },
     features: {
       title: 'Why DolphinScheduler',

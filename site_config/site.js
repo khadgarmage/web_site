@@ -17,12 +17,12 @@ export default {
         text: 'DOCS',
         link: '/en-us/docs/user_doc/quick-start.html',
       },
-      {
-        key: 'download',
-        text: 'DOWNLOAD',
-        link: 'https://github.com/apache/incubator-dolphinscheduler/releases',
-        target: '_blank',
-      },
+      // {
+      //   key: 'download',
+      //   text: 'DOWNLOAD',
+      //   link: 'https://github.com/apache/incubator-dolphinscheduler/releases',
+      //   target: '_blank',
+      // },
       {
         key: 'blog',
         text: 'BLOG',
@@ -40,8 +40,12 @@ export default {
       }
     ],
     disclaimer: {
-      title: 'Vision',
-      content: 'Make Task scheduling easier, more reliable and more efficient',
+      title: 'Disclaimer',
+      content: 'Apache DolphinScheduler (incubating) is an effort undergoing incubation at The Apache Software Foundation (ASF), sponsored by Incubator. \n' +
+          'Incubation is required of all newly accepted projects until a further review indicates \n' +
+          'that the infrastructure, communications, and decision making process have stabilized in a manner consistent with other successful ASF projects. \n' +
+          'While incubation status is not necessarily a reflection of the completeness or stability of the code, \n' +
+          'it does indicate that the project has yet to be fully endorsed by the ASF.',
     },
     documentation: {
       title: 'Documentation',
@@ -99,12 +103,12 @@ export default {
         text: '文档',
         link: '/zh-cn/docs/user_doc/quick-start.html',
       },
-      {
-        key: 'download',
-        text: '下载',
-        link: 'https://github.com/apache/incubator-dolphinscheduler/releases',
-        target: '_blank',
-      },
+      // {
+      //   key: 'download',
+      //   text: '下载',
+      //   link: 'https://github.com/apache/incubator-dolphinscheduler/releases',
+      //   target: '_blank',
+      // },
       {
         key: 'blog',
         text: '博客',
@@ -127,8 +131,12 @@ export default {
       }
     ],
     disclaimer: {
-      title: '愿景',
-      content: '让数据调度更简单，可靠，高效',
+      title: 'Disclaimer',
+      content: 'Apache DolphinScheduler (incubating) is an effort undergoing incubation at The Apache Software Foundation (ASF), sponsored by Incubator. \n' +
+          'Incubation is required of all newly accepted projects until a further review indicates \n' +
+          'that the infrastructure, communications, and decision making process have stabilized in a manner consistent with other successful ASF projects. \n' +
+          'While incubation status is not necessarily a reflection of the completeness or stability of the code, \n' +
+          'it does indicate that the project has yet to be fully endorsed by the ASF.',
     },
     documentation: {
       title: '文档',

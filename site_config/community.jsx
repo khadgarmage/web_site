@@ -60,23 +60,23 @@ export default {
           title: 'Mailing List',
           link: 'mailto:dev-subscribe@dolphinscheduler.apache.org'
         },
-        {
-          img: '/img/alibaba.png',
-          imgHover: '/img/alibaba_hover.png',
-          title: '#Apache/DolphinScheduler',
-          link: 'https://gitter.im/apache/ApacheDolphinScheduler',
-        },
-        {
-          img: '/img/so-icon.png',
-          imgHover: '/img/so-icon-hover.png',
-          title: 'StackOverflow',
-          link: 'https://stackoverflow.com/questions/tagged/apache-DolphinScheduler'
-        },
+        // {
+        //   img: '/img/alibaba.png',
+        //   imgHover: '/img/alibaba_hover.png',
+        //   title: '#Apache/DolphinScheduler',
+        //   link: 'https://gitter.im/apache/ApacheDolphinScheduler',
+        // },
+        // {
+        //   img: '/img/so-icon.png',
+        //   imgHover: '/img/so-icon-hover.png',
+        //   title: 'StackOverflow',
+        //   link: 'https://stackoverflow.com/questions/tagged/apache-DolphinScheduler'
+        // },
         {
           img: '/img/twitter.png',
           imgHover: '/img/twitter_hover.png',
           title: '@ApacheDolphinScheduler',
-          link: 'https://twitter.com/ApacheDolphinScheduler',
+          link: 'https://twitter.com/dolphinschedule',
         },
       ],
     },
@@ -166,23 +166,23 @@ export default {
           title: '邮件列表',
           link: 'mailto:dev-subscribe@dolphinscheduler.apache.org'
         },
-        {
-          img: '/img/alibaba.png',
-          imgHover: '/img/alibaba_hover.png',
-          title: 'Gitter',
-          link: 'https://gitter.im/apache/ApacheDolphinScheduler',
-        },
-        {
-          img: '/img/so-icon.png',
-          imgHover: '/img/so-icon-hover.png',
-          title: 'StackOverflow',
-          link: 'https://stackoverflow.com/questions/tagged/apache-ApacheDolphinScheduler'
-        },
+        // {
+        //   img: '/img/alibaba.png',
+        //   imgHover: '/img/alibaba_hover.png',
+        //   title: 'Gitter',
+        //   link: 'https://gitter.im/apache/ApacheDolphinScheduler',
+        // },
+        // {
+        //   img: '/img/so-icon.png',
+        //   imgHover: '/img/so-icon-hover.png',
+        //   title: 'StackOverflow',
+        //   link: 'https://stackoverflow.com/questions/tagged/apache-ApacheDolphinScheduler'
+        // },
         {
           img: '/img/twitter.png',
           imgHover: '/img/twitter_hover.png',
           title: '@ApacheDolphinScheduler',
-          link: 'https://twitter.com/ApacheDolphinScheduler',
+          link: 'https://twitter.com/dolphinschedule',
         },
       ],
     },

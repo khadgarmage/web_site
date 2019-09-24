@@ -62,6 +62,7 @@ class Home extends Language {
           />
           <div className="vertical-middle">
             <div className="product-name">
+              <div className="sub-corner">Incubating</div>
               <h2>{dataSource.brand.brandName}</h2>
             </div>
             <p className="product-desc">{dataSource.brand.briefIntroduction}</p>
@@ -84,10 +85,10 @@ class Home extends Language {
                 </div>
               </a>
             </div>
-            <div className="version-note">
-              <a target="_blank" rel="noopener noreferrer" href={getLink(dataSource.brand.versionNote.link)}>{dataSource.brand.versionNote.text}</a>
-            </div>
-            <div className="release-date">{dataSource.brand.releaseDate}</div>
+            {/*<div className="version-note">*/}
+            {/*  <a target="_blank" rel="noopener noreferrer" href={getLink(dataSource.brand.versionNote.link)}>{dataSource.brand.versionNote.text}</a>*/}
+            {/*</div>*/}
+            {/*<div className="release-date">{dataSource.brand.releaseDate}</div>*/}
           </div>
           <div className="animation animation1" />
           <div className="animation animation2" />
